@@ -53,6 +53,13 @@ O principal objetivo deste repositório é servir como um diário de bordo para 
   - Transações & Gerenciamento de Banco De Dados Com no MySQL
 - [Acesse os exercícios](https://github.com/rodolfo-lovera/dio-SQL-Database-Specialist)
 
+### 6. **Curso: Microsoft Power BI Para Business Intelligence e Data Science - Data Science Academy**
+- **Descrição**: Este curso foca no uso do Microsoft Power BI para gerar modelos preditivos e insights de Data Science, integrando com R e Python. Ele cobre a transição de BI tradicional para análises preditivas com Machine Learning, sendo prático e voltado para iniciantes.
+- **Principais Tópicos**:    
+  - Conectar o Power BI a bancos de dados.
+  - Gerar relatórios e dashboards interativos.
+  - Customizar e integrar o Power BI com Microsoft Office.
+- [Acesse os exercícios](https://github.com/rodolfo-lovera/dsa-powerBI.git)
   
 ## 📝 Como Contribuir
 
